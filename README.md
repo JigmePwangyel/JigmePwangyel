@@ -1,7 +1,7 @@
 <h2 align="left">Hi, I'm Jigme 👋🏼 🧑🏻‍💻</h2>
 
 <p>
-    <img src="MyProfile.png" alt="Profile Header"  style="height: 360px; width: 100%;"/>
+    <img src="MyProfile.png" alt="Profile Header"  style="height: 40git 0px; width: 100%;"/>
 </p>
 
 <p style="">I’m an IT Engineering student with a passion for creating full stack software solutions. My expertise lies in the MERN stack, and I am currently expanding my skills by learning Next.js. Additionally, I have a solid background in mobile application development, with experience in React Native, Flutter, and Android Studio. In my spare time, I enjoy exploring emerging technologies such as AI and Blockchain.</p>
