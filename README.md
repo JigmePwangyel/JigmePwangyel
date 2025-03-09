@@ -4,13 +4,11 @@
     <img src="MyProfile.png" alt="Profile Header"  style="height: 40git 0px; width: 100%;"/>
 </p>
 
-<p style="">I’m an IT Engineering student with a passion for creating full stack software solutions. My expertise lies in the MERN stack, and I am currently expanding my skills by learning Next.js. Additionally, I have a solid background in mobile application development, with experience in React Native, Flutter, and Android Studio. In my spare time, I enjoy exploring emerging technologies such as AI and Blockchain.</p>
+<p style="">I’m an IT Engineering student with a passion for creating full stack software solutions. My expertise lies in the MERN stack, and I am currently expanding my skills by learning Ruby on Rails. Additionally, I have a solid background in mobile application development, with experience Flutter. In my spare time, I enjoy exploring emerging technology such as AI and playing basketball.</p>
 
 <h3>Tech Stack</h3>
-<p align="left"> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a> 
+
+<div align="center"> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 15px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
     </a> 
@@ -43,27 +41,45 @@
     </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 15px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin-right: 15px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    </a> 
-</p>
+    </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" 
+            alt="Express.js" width="40" height="40"/>
+    </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
+            alt="PostgreSQL" width="40" height="40"/>
+    </a>
+    <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" 
+            alt="Ruby on Rails" width="40" height="40"/>
+    </a>
+    <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" 
+            alt="Ruby" width="40" height="40"/>
+    </a>
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" 
+            alt="TensorFlow" width="40" height="40"/>
+    </a>
+</div>
 
 <h3>My Github Stats</h3>
-<p>
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jigmepwangyel&show_icons=true&locale=en" alt="jigmepwangyel" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jigmepwangyel&show_icons=true&locale=en&layout=compact" alt="jigmepwangyel" />
-</p>
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
 
 <h3>Connect with me through my Socials</h3>
-<p align="left">
+<div align="center">
     <a href="https://www.linkedin.com/in/jigme-phuntsho-wangyel-357762239/?originalSubdomain=bt" target="blank" style="margin-right: 15px;">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkdin Profile" height="30" width="40" />
+        <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="Linkdin Profile" height="30" width="40" />
     </a>
-    <a href="https://www.facebook.com/jigme.wangyel.94/?locale=el_GR" target="blank" style="margin-right: 15px;">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jigme phuntsho wangyel" height="30" width="40" />
+    <a href="https://x.com/wangyel_jigme" target="blank" style="margin-right: 15px;">
+        <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="Twitter Profile" height="30" width="40" />
     </a>
     <a href="https://instagram.com/wangyeljigme" target="blank" style="margin-right: 15px;">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wangyeljigme" height="30" width="40" />
+        <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram Profile" height="30" width="40" />
     </a>
-</p>
+</div>
